@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋, I'm Mohit
 
-<!--
-**Mohitphulwani/mohitphulwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Business Analytics | 📊 Data Analyst @ Sacred Heart University
 
-Here are some ideas to get you started:
+🌱 I’m passionate about data analytics, visualization, and turning data into insights
+🔭 Check out some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Airline Performance Dashboard
+
+Car Price Prediction
+
+Wellness Tourism Customer Prediction
+
+📫 Connect with me on LinkedIn
+
+⚡ Fun fact: When I’m not analyzing data, you’ll find me running outdoors or enjoying stand-up comedy.
