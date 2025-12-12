@@ -6,7 +6,7 @@ Hi 👋, I'm Mohit
 
 🔭 Check out some of my projects:
 
-Airline Performance Dashboard
+County-Obesity-Risk-Intervention-System-C-ORIS-
 
 Car Price Prediction
 
