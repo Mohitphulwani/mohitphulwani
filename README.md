@@ -13,4 +13,4 @@ Car Price Prediction
 Wellness Tourism Customer Prediction
 
 
-⚡ Fun fact: When I’m not analyzing data, you’ll find me running outdoors or enjoying stand-up comedy.
+
