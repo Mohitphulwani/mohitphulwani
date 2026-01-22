@@ -6,11 +6,12 @@ Hi 👋, I'm Mohit
 
 🔭 Check out some of my projects:
 
-County-Obesity-Risk-Intervention-System-C-ORIS-
+
+Causal-Revenue-Intelligence-System
 
 Car Price Prediction
 
-Wellness Tourism Customer Prediction
+County-Obesity-Risk-Intervention-System-C-ORIS-
 
 
 
