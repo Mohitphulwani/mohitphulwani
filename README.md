@@ -9,7 +9,7 @@ Hi 👋, I'm Mohit
 
 Causal-Revenue-Intelligence-System
 
-behavioral vitality engine
+Behavioral Vitality Engine
 
 County-Obesity-Risk-Intervention-System-C-ORIS-
 
