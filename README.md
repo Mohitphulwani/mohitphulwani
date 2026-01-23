@@ -9,7 +9,7 @@ Hi 👋, I'm Mohit
 
 Causal-Revenue-Intelligence-System
 
-Car Price Prediction
+behavioral vitality engine
 
 County-Obesity-Risk-Intervention-System-C-ORIS-
 
