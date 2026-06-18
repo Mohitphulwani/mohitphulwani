@@ -1,8 +1,8 @@
 Hi 👋, I'm Mohit
 
-🎓 MS in Analytics | 📊 Data Analyst @ Sacred Heart University
+🎓 MS in Analytics | 📊 Data Analyst @ Meta via Qualitest
 
-🌱 I’m passionate about Prescriptive Analytics
+🌱 I’m passionate about Analytics
 
 🔭 Check out some of my projects:
 
