@@ -1,7 +1,6 @@
 Hi 👋, I'm Mohit
 
-🎓 MS in Analytics | 📊 Data Analyst @ Meta via Qualitest
-
+🎓 MS in Analytics | 📊 Claims Analyst @ Amazon 
 🌱 I’m passionate about Analytics
 
 🔭 Check out some of my projects:
